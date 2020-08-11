@@ -20,4 +20,6 @@
 
 [![toxic2302's github stats](https://github-readme-stats.vercel.app/api?username=toxic2302&show_icons=true&theme=gotham)](https://github.com/toxic2302/github-readme-stats)
 
+<!--
 [![Top Langs (Public Repos)](https://github-readme-stats.vercel.app/api/top-langs/?username=toxic2302&hide=assembly&show_icons=true&theme=gotham)](https://github.com/toxic2302/github-readme-stats)
+-->
